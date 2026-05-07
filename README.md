@@ -24,6 +24,7 @@
 |---|---|---|
 | [FreelanceCalculator](https://github.com/heiseii/FreelanceCalculator) | Calculadora de tarifas para freelancers argentinos · Rate calculator for Argentine freelancers | HTML, CSS, JS |
 | [UTN Programación 1](https://github.com/heiseii/UTN-TUPaD-Programacion1) | Ejercicios y actividades de la materia · Course exercises and assignments | Python |
+| [API REST de Seguridad](https://github.com/heiseii/API-auth-backend-project) | Una API REST backend construida con Django + Django REST Framework, enfocada exclusivamente en seguridad · A REST API backend built with Django + Django REST Framework, focused exclusively on security | Python, Django, PostgreSQL |
 
 ---
 
