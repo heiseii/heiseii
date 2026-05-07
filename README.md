@@ -1,12 +1,12 @@
 
-# Hola, soy Lucca 👋 | Hi, I'm Lucca 👋
+# Hola, soy Lucca! | Hi, I'm Lucca!
 
-🎓 **ES:** Estudiante de la Tecnicatura Universitaria en Programación (TUPaD) · UTN  
-🎓 **EN:** Computer Programming student at Universidad Tecnológica Nacional, Argentina
+ **ES:** Estudiante de la Tecnicatura Universitaria en Programación (TUPaD) · UTN  
+ **EN:** Computer Programming student at Universidad Tecnológica Nacional, Argentina
 
 ---
 
-## 🛠️ Tecnologías | Technologies
+##  Tecnologías | Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Proyectos | Projects
+##  Proyectos | Projects
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
@@ -28,14 +28,14 @@
 
 ---
 
-## 📚 Formación extra | Extra training
+##  Formación extra | Extra training
 
-- 🤖 **Desarrollo con IA: de 0 a Producción** — BIG School *(LLMs, prompt engineering, agentes, CI/CD)*
-- ☕ **Introducción a Java** — EducaciónIT
+-  **Desarrollo con IA: de 0 a Producción** — BIG School *(LLMs, prompt engineering, agentes, CI/CD)*
+-  **Introducción a Java** — EducaciónIT
 
 ---
 
-## 💡 Sobre mí | About me
+##  Sobre mí | About me
 
 **ES:** Apasionado por la programación y la tecnología. Me gusta construir cosas útiles y seguir aprendiendo cada día. Usuario de Linux (CachyOS/Arch).
 
@@ -43,5 +43,5 @@
 
 ---
 
-*📍 Argentina*
+*🇦🇷 Argentina*
 ```
